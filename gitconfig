@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = didier.duhayon@gmail.com
+	name = dd
